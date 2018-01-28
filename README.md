@@ -3,6 +3,3 @@ Demo Pruebas reverse
 
 Uno
 Dos
-Tres
-Cuatro
-Cinco
